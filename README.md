@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Computer Science student at Kirinyaga University.<br> I have a keen interest in software development, data analysis, and web technologies. <br>I'm always eager to learn new skills and take on exciting challenges.
+👋 Hi there! I'm Winfred Mwongeli,  passionate Computer Science student at Kirinyaga University.<br> I have a keen interest in software development, data analysis, and web technologies. <br>I'm always eager to learn new skills and take on exciting challenges.
 
 
 # 💻 Tech Stack:
